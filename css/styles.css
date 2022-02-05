@@ -14,7 +14,7 @@ html {
 }
 
 #apresentacao {
-  background: url('../imagens/background.png');
+  background: url('./imagens/background.png');
   background-repeat: no-repeat;
   background-size: 100% auto;
 
